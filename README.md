@@ -25,5 +25,5 @@ Hey, I'm Varexa, A very good procrastinator
 
 **Projects**
 
-- [Moosic](https://moosicbot.org/)
-- [Muzox](https://muzoxbot.xyz/)
+- [Moosic](https://moosicbot.pro/)
+
